@@ -1,0 +1,6 @@
+﻿incident_number,call_type,call_type_group,call_time,Street,call_origin,mental_health,drug_related,dv_related,alcohol_related,Area,AreaName,Latitude,Longitude,Hour,DayOfWeek
+18BU020014,Noise,Quality of Life,9/1/18 0:08,S Union St,Phone,0,0,0,1,E,SouthEnd,44.47489546,-73.20784788,12:00 AM,Saturday
+18BU020015,Noise,Quality of Life,9/1/18 1:01,S Union St,Phone,0,0,0,0,D,Downtown,44.47880228,-73.21068085,1:00 AM,Saturday
+18BU020016,Sexual Assault,Assault,9/1/18 1:12,NA,Phone,0,0,0,1,E,SouthEnd,NA,NA,1:00 AM,Saturday
+18BU020017,Welfare Check,Public Service,9/1/18 1:30,Pearl St/Church St,Phone,0,0,0,1,B,OldNorthEnd,44.48114561,-73.21340556,1:00 AM,Saturday
+18BU020018,Noise,Quality of Life,9/1/18 1:33,Pine St,Phone,0,0,0,0,E,SouthEnd,44.47363608,-73.21544542,1:00 AM,Saturday
