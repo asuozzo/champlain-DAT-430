@@ -1,0 +1,8 @@
+Day,High,Low,Type
+Monday,50,32,Actual
+Tuesday,54,44,Actual
+Wednesday,45,34,Actual
+Thursday,41,26,Forecast
+Friday,33,22,Forecast
+Saturday,35,31,Forecast
+Sunday,43,28,Forecast
