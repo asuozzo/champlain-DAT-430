@@ -1,1 +1,1 @@
-Files for DAT-430 Data Visualization class, Fall 2019
+Files for the DAT-430 Data Visualization class at Champlain College.
